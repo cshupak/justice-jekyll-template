@@ -10,20 +10,20 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
+description: Outback Land & Timber 
 author:
-  name:
-  email:
+  name:Clay Shupak  
+  email:clay.shupak@gmail.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Justice Template
+  name: 
   links:
     - https://github.com/CloudCannon/justice-jekyll-template
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: cst
 
 paginate: 10
 paginate_path: "/advice/:num/"
